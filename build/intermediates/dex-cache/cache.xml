@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/5f8a0d2b8de10ce0623be2f462428fb8a4ba3a1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a06afc1b1c583cba0a30eab13ec713f64e72615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/f21ad4eaafaddf0706fbdf0101dfc1421ddddd57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdc5c506af31fa662a5b2b858a546c19711b795a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/f26281f5d47cc79831ebb4e5790fd331b151ca56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_202a46fe1c2e14b18b78a573ea8cfab475934615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/bcfcc0f2e9919019b3013d6fe7e8a121fab7225c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6abfc3e7f762fb3d99cdcd364ec3cb62981d1be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/a99b4e2632d859f3253688756d47e1ef601dc266/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9fc0987d2f5607a2a99b54ccf55a35bb8f49d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9631a76413e094e6d4465adebcdef83e141e7942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f64091b8e38f2752a9e9fb012625306accde3588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/2181bdf125eb7f070235b7381b98b13f4dfa9677/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71a605349a6dd952744855764576941b0318ddd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/81383eda02b8c7ce2fbc82d47209d814cede4d0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cdc7fd9a2c5ab491ffa6a17b9174c36836f3ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/290c0561ec0bc2cd3ee24610cd821c6a0d4b3233/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac37e35bb12e69f1d0fd8adbbb16b577e97a3341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/b1fd9c8bc422748a7809ae9de4771e6107e7e3eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6ccb5a634c454b1c08f205fc0057af34be8225f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/c82490bdee11581f9a774caf00dab42745ee5ea1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aab2c5c82b124b26fb0b194db233c59f1346269a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_6375c6ff4fd68d5bfeac6ccba0d142f012736ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/2742e4fda86a70b99512fa904dc60ced64db10d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47e6e71d1751321469bf9d1ad5923ba8b3a16f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/e8ab466814bb806b592f22b20e5540c658ed48e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e09b43c25a5c78a6102dcec8f44a25f5bfa78a19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_ecf560091881ea5fcbb1024d6ccfd0232e028175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_3efb7cf52f415af0407f01d9b387cd34ba3d55bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/d61cb9098dcf86e26eb866ee1bd03be5572e2399/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1261e551a7a5934d8cc93f0beb5f6242b8b1f03d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/23d0e74d9c2ccd87383eb05f62eb0a39dc144fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_588625d7387568b03772787985f1eddda949876f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2bcf8419f71a25e88824688193c6949aca316b6">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bcfe8c719cefb12efd748ca56cbd70bceac6381/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/c72d647665983f4ef060afe682f67c5f16070711/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_400b7b5f1044c8f85ffdaf8734d2a1e3b7e6e4a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_3e1e5e21704d4b88b36146a0d124d8922b0e84f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_6a593dc515d848d21ab47d81c158a18bbc83c396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b1/Beritaku.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_0f80f133f399c1466ce2e17816c49c762cf5004f/classes.dex" />
+    </item>
+
+</items>
